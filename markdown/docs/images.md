@@ -1,9 +1,11 @@
 # Images
 
 ## Overview
+
 Images can be embedded in markdown documents to enhance visual content and provide context.
 
 ## Basic Syntax
+
 Use an exclamation mark, alt text in brackets, and the image URL in parentheses:
 
 ```markdown
@@ -13,22 +15,26 @@ Use an exclamation mark, alt text in brackets, and the image URL in parentheses:
 ## Examples
 
 ### Basic Image
+
 ```markdown
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 ```
 
 ### Image with Title
+
 ```markdown
 ![Markdown Logo](https://markdown-here.com/img/icon256.png "Markdown Logo")
 ```
 
 ### Local Images
+
 ```markdown
 ![Local Image](./images/logo.png)
 ![Relative Path](../assets/image.jpg)
 ```
 
 ### Reference Style
+
 ```markdown
 ![Alt text][image-ref]
 
@@ -36,6 +42,7 @@ Use an exclamation mark, alt text in brackets, and the image URL in parentheses:
 ```
 
 ## Image Sizing
+
 Some markdown processors support image sizing:
 
 ```markdown
@@ -43,6 +50,7 @@ Some markdown processors support image sizing:
 ```
 
 ## Best Practices
+
 - Always provide meaningful alt text for accessibility
 - Use appropriate image formats (PNG, JPG, SVG)
 - Optimize images for web (compress when possible)

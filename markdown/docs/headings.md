@@ -1,9 +1,11 @@
 # Headings
 
 ## Overview
+
 Headings are used to create hierarchical structure in markdown documents.
 
 ## Syntax
+
 Use `#` symbols to create headings:
 
 ```markdown
@@ -18,13 +20,19 @@ Use `#` symbols to create headings:
 ## Examples
 
 # This is Heading 1
+
 ## This is Heading 2
+
 ### This is Heading 3
+
 #### This is Heading 4
+
 ##### This is Heading 5
+
 ###### This is Heading 6
 
 ## Best Practices
+
 - Use only one H1 (`#`) per document
 - Maintain logical hierarchy
 - Don't skip heading levels

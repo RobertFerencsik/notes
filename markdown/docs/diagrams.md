@@ -1,11 +1,13 @@
 # Diagrams
 
 ## Overview
+
 Diagrams can be created in markdown using various diagramming tools and syntaxes, with Mermaid being the most popular.
 
 ## Types of Diagrams
 
 ### Sequence Diagrams
+
 ```mermaid
 sequenceDiagram
     participant User
@@ -19,6 +21,7 @@ sequenceDiagram
 ```
 
 ### Class Diagrams
+
 ```mermaid
 classDiagram
     class Animal {
@@ -36,6 +39,7 @@ classDiagram
 ```
 
 ### Entity Relationship Diagrams
+
 ```mermaid
 erDiagram
     USER ||--o{ POST : creates
@@ -52,6 +56,7 @@ erDiagram
 ```
 
 ### Gantt Charts
+
 ```mermaid
 gantt
     title Project Timeline
@@ -65,6 +70,7 @@ gantt
 ```
 
 ## Best Practices
+
 - Choose the right diagram type for your content
 - Keep diagrams simple and focused
 - Use consistent naming conventions

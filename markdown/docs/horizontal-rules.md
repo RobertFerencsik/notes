@@ -1,9 +1,11 @@
 # Horizontal Rules
 
 ## Overview
+
 Horizontal rules create visual separators in your markdown documents.
 
 ## Syntax
+
 Use three or more hyphens, asterisks, or underscores:
 
 ```markdown
@@ -29,6 +31,7 @@ ___
 And another with underscores.
 
 ## Best Practices
+
 - Use horizontal rules to separate major sections
 - Don't overuse them - they should provide meaningful breaks
 - Be consistent with your rule style

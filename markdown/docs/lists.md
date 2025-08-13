@@ -1,9 +1,11 @@
 # Lists
 
 ## Overview
+
 Lists help organize information in a structured, easy-to-read format.
 
 ## Unordered Lists
+
 Use `-`, `*`, or `+` for unordered lists:
 
 ```markdown
@@ -21,6 +23,7 @@ Use `-`, `*`, or `+` for unordered lists:
 ```
 
 ## Ordered Lists
+
 Use numbers followed by a period:
 
 ```markdown
@@ -30,6 +33,7 @@ Use numbers followed by a period:
 ```
 
 ## Nested Lists
+
 Indent with spaces or tabs:
 
 ```markdown
@@ -45,16 +49,19 @@ Indent with spaces or tabs:
 ## Examples
 
 ### Unordered List
+
 - Apples
 - Bananas
 - Oranges
 
 ### Ordered List
+
 1. First step
 2. Second step
 3. Third step
 
 ### Nested List
+
 - Fruits
   - Apples
   - Bananas
@@ -63,6 +70,7 @@ Indent with spaces or tabs:
   - Broccoli
 
 ## Best Practices
+
 - Be consistent with your list markers
 - Use appropriate indentation for nested lists
 - Keep list items concise

@@ -1,9 +1,11 @@
 # Escaping Characters
 
 ## Overview
+
 Sometimes you need to display characters that have special meaning in markdown. Escaping allows you to show these characters as literal text.
 
 ## Basic Escaping
+
 Use a backslash `\` before the character you want to escape:
 
 ```markdown
@@ -32,26 +34,31 @@ Use a backslash `\` before the character you want to escape:
 ## Examples
 
 ### Escaping Asterisks
+
 ```markdown
 \*This is not italic\*
 ```
 
 ### Escaping Backticks
+
 ```markdown
 \`This is not inline code\`
 ```
 
 ### Escaping Brackets
+
 ```markdown
 \[This is not a link\](url)
 ```
 
 ### Escaping Hash
+
 ```markdown
 \# This is not a heading
 ```
 
 ## Best Practices
+
 - Only escape characters when necessary
 - Be consistent with your escaping style
 - Test your markdown to ensure proper rendering

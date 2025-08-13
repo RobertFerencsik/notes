@@ -1,9 +1,11 @@
 # Table of Contents (TOC)
 
 ## Overview
+
 A Table of Contents provides navigation and structure for longer markdown documents.
 
 ## Manual TOC
+
 Create links to your headings manually:
 
 ```markdown
@@ -18,9 +20,11 @@ Create links to your headings manually:
 ```
 
 ## Automatic TOC
+
 Many markdown processors support automatic TOC generation:
 
 ### GitHub/GitLab Style
+
 ```markdown
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,9 +37,11 @@ Many markdown processors support automatic TOC generation:
 ```
 
 ### VS Code Extension
+
 Use extensions like "Markdown All in One" to auto-generate TOCs.
 
 ## Anchor Links
+
 Headings automatically become anchor links. Convert them to lowercase and replace spaces with hyphens:
 
 ```markdown
@@ -45,6 +51,7 @@ Headings automatically become anchor links. Convert them to lowercase and replac
 ```
 
 ## Best Practices
+
 - Place TOC near the top of the document
 - Keep it updated when you add new sections
 - Use consistent formatting

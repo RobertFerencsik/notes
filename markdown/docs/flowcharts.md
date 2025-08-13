@@ -1,9 +1,11 @@
 # Flowcharts
 
 ## Overview
+
 Flowcharts can be created in markdown using Mermaid syntax, which is supported by many platforms including GitHub and GitLab.
 
 ## Basic Syntax
+
 Use Mermaid code blocks:
 
 ```markdown
@@ -20,18 +22,21 @@ flowchart TD
 ## Common Elements
 
 ### Start/End
+
 ```mermaid
 flowchart TD
     A([Start]) --> B([End])
 ```
 
 ### Process
+
 ```mermaid
 flowchart TD
     A[Process Step] --> B[Another Process]
 ```
 
 ### Decision
+
 ```mermaid
 flowchart TD
     A{Is it true?} -->|Yes| B[Do This]
@@ -39,6 +44,7 @@ flowchart TD
 ```
 
 ### Input/Output
+
 ```mermaid
 flowchart TD
     A[/Input/] --> B[Process]
@@ -46,6 +52,7 @@ flowchart TD
 ```
 
 ## Example Flowchart
+
 ```mermaid
 flowchart TD
     A[Start] --> B{User logged in?}
@@ -58,6 +65,7 @@ flowchart TD
 ```
 
 ## Best Practices
+
 - Keep flowcharts simple and readable
 - Use descriptive labels
 - Maintain consistent styling

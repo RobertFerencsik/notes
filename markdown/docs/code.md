@@ -1,9 +1,11 @@
 # Code
 
 ## Overview
+
 Markdown provides several ways to display code, from inline code snippets to code blocks.
 
 ## Inline Code
+
 Use backticks for inline code:
 
 ```markdown
@@ -11,6 +13,7 @@ Use the `console.log()` function to print to the console.
 ```
 
 ## Code Blocks
+
 Use triple backticks for code blocks:
 
 ```markdown
@@ -22,6 +25,7 @@ function hello() {
 ```
 
 ## Syntax Highlighting
+
 Specify the language after the opening backticks:
 
 ```markdown
@@ -38,6 +42,7 @@ def hello():
 ```
 
 ## Indented Code Blocks
+
 Use 4 spaces or 1 tab for indented code blocks:
 
 ```markdown
@@ -49,9 +54,11 @@ Use 4 spaces or 1 tab for indented code blocks:
 ## Examples
 
 ### Inline Code
+
 The `git commit` command creates a new commit.
 
 ### Code Block
+
 ```javascript
 function greet(name) {
     return `Hello, ${name}!`;
@@ -59,12 +66,14 @@ function greet(name) {
 ```
 
 ### With Syntax Highlighting
+
 ```python
 def calculate_sum(a, b):
     return a + b
 ```
 
 ## Best Practices
+
 - Use inline code for short snippets, function names, or commands
 - Use code blocks for longer code examples
 - Specify the language for syntax highlighting
