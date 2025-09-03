@@ -4,4 +4,4 @@ This document aims to improve soft skills. As we fella's forget about our mental
 
 ## Topics
 
-1. [Communication](./docs/communication.md)
+1. [Communication](./docs/communication/communication.md)
