@@ -6,7 +6,7 @@ I'll only write down the rules, quotes and passages from the book that truly res
 
 ## Fundamental Techniques In Handling People  
 
-### PRINCIPLE 1: ***Don't criticize, condemn or complain.***
+### PRINCIPLE 1: [***Don't criticize, condemn or complain.***](./quotes/handling-people/principle1.md)
 
 ### PRINCIPLE 2: ***Give honest and sincere appreciation***
 
