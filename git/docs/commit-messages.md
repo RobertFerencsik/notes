@@ -4,9 +4,9 @@
 
 \<type\>\<(scope)\>: \<short summary\> [optional longer description]
 
-## Common Commit Types
+## Commit Types
 
-| Type | Description |
+| **Common** | |
 |------|-------------|
 | **feat** | A new feature |
 | **fix** | A bug fix |
@@ -16,6 +16,15 @@
 | **perf** | Performance improvements |
 | **test** | Adding or updating tests |
 | **chore** | Maintenance tasks (build process, dependencies, etc.) |
+
+| **Structural** | |
+|------|-------------|
+| **move** | Relocating files|
+| **restructure** | Reorganizing folders or modules |
+| **config** | Changes to configuration files |
+| **deps** | Add, upgrade pr remove dependencies |
+
+| **
 
 ## Scope
 

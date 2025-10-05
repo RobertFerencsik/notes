@@ -1,6 +1,6 @@
 # Don't criticize, condemn or complain
 
-> I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God hsa not seen fit to distribute evenly the gift of intelligence.
+> I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence.
 >
 >> John Wanamaker
 
@@ -18,7 +18,7 @@ Let's realize that criticisms are like homing pigeons. They always return home.
 >
 >> Matthew 7:1
 
-Lincoln reply when others spoke harshly of the southern people:
+Lincoln's reply when others spoke harshly of the southern people:
 
 "Don't criticize them; they are just what we would be under similar circumstances."
 

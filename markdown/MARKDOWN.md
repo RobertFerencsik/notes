@@ -6,6 +6,7 @@
 - [Headings](./docs/headings.md)
 - [Paragraphs](./docs/paragraphs.md)
 - [Line Breaks](./docs/line-breaks.md)
+- [White Spaces](./docs/whitespaces.md)
 - [Emphasis](./docs/emphasis.md)
 - [Blockquotes](./docs/blockquotes.md)
 - [Lists](./docs/lists.md)
